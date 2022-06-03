@@ -2,7 +2,10 @@ rencana trial reshop
 - javascript
   * ES6
   * Framework javascript
-    ^ angular
+    ^ vue
     ^ react
+- struktur data dasar
 - php frameworks
   * laravel
+- python
+
