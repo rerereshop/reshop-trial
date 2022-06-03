@@ -1,3 +1,5 @@
 rencana trial reshop
 - javascript
+  * ES6
+  * Framework javascript
 - php frameworks
